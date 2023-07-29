@@ -1,3 +1,4 @@
 # CreatesSlice
-The crates will be spawned from the bottom up
-how to play: slice/cut the creates
+*The crates will be spawned from the bottom up
+*How to play: slice/cut the creates
+*Game have 3 mode: Easy, Medium, Hard
